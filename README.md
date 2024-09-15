@@ -5,3 +5,4 @@ conflictで変更
 ff2で作成
 github上で更新
 conflict用に編集
+rebase_practiceブランチで更新

@@ -3,3 +3,4 @@
 no-fast-forward
 conflictで変更
 ff2で作成
+github上で更新
